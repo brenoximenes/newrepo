@@ -2,4 +2,6 @@
 to test git functions
 
 
-editado na psta local
+1 editado na pasta local
+
+2 nova edição p testar branches
